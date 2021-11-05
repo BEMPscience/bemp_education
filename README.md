@@ -8,4 +8,5 @@ BEMP will be creating weekly activities that we will share here http://bemp.org/
 
 <img src="https://github.com/BEMPscience/bemp_education/blob/master/images/IMG_1872(1).jpg" width=50% height=50%>
 
-CC-BY 4.0
+Documents release under CC-BY 4.0.
+Logo release under CC BY-NC-SA 4.0.
